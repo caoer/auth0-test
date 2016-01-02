@@ -1,0 +1,6 @@
+framework module cocos2d {
+  umbrella header "cocos2d-umbrella.h"
+
+  export *
+  module * { export * }
+}
